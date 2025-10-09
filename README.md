@@ -1,4 +1,4 @@
-# PCA Image Compression and Reconstruction
+# Compressão e reconstrução de imagens com PCA
 
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
